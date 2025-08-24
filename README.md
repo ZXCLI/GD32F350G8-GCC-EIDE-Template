@@ -1,0 +1,1 @@
+GD32F350G8-GCC-EIDE-Template
